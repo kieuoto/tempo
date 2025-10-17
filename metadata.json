@@ -1,0 +1,5 @@
+{
+  "name": "TempoFlow",
+  "description": "An application for users to create, save, and run workout routines based on customizable countdown timer sequences.",
+  "requestFramePermissions": []
+}
